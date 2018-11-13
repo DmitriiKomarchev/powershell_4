@@ -1,0 +1,13 @@
+### YamlMime:Sample
+sample:
+- name: PowerShell sample
+  description: A test sample that shows simple PS script 
+  generateZip: true
+  author: ant
+  languages:
+  - PowerShell
+  technologies:
+  - advanced-threat-analytics
+  ci:
+  - path: /PowerShellSample
+    template: powershell
