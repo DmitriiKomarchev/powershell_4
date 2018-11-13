@@ -27,7 +27,7 @@
                         $_.Token|Add-Member -MemberType NoteProperty -Name Path -Value $Path -PassThru|Add-Member -MemberType NoteProperty -Name ErrorMessage -Value $_.Message -PassThru
                     }
                 }
-                $total += 1
+                $total+=1
             }
         }
     }
