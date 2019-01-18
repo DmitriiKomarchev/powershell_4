@@ -1,6 +1,6 @@
 ### YamlMime:Sample
 sample:
-- name: PowerShell sample
+- name: PowerShell sample (test)
   description: A test sample that shows PS script 
   generateZip: true
   author: ant
